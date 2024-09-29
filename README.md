@@ -1,2 +1,6 @@
 # IG-data-analysis
-Discover who doesn't follow you on IG
+Discover who doesn't follow you on IG  
+
+#Python  
+#Web Scraping  
+
