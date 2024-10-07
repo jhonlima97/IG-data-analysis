@@ -5,3 +5,5 @@ Discover who doesn't follow you on IG
 #seleium  
 #Web Scraping  
 
+#python -m venv env  
+
